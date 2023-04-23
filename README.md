@@ -182,8 +182,8 @@
 
 Класс `mainw` используется для выбора города и расчёта суммы билетов, в зависимости от количества людей, класса и городов. В нем обрабатывается запрос на расчёт стоимости и перехода на основные функции приложения, посредством использования функций «calcul» класса calcul.
 
-[mainw.cpp](https://github.com/argo2707/Qt_OOP/blob/main/MainW.h)
-[mainw.h](https://github.com/argo2707/Qt_OOP/blob/main/mainw.h)
+[mainw.cpp](https://github.com/argo2707/Qt_OOP/blob/main/mainw.cpp)
+[mainw.h](https://github.com/argo2707/Qt_OOP/blob/main/MainW.h)
 
 Класс `sing` используется для авторизации. В нем обрабатывается запрос на авторизацию пользователя.
 
